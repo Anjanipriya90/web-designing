@@ -1,1 +1,19 @@
-
+<html>
+<head>
+  </head>
+  <body>
+     <h1 id="root"></h1>
+     <!--innerHTML-->
+     <!--document.write-->
+     <!--windows.alert-->
+     <!--cosole.log-->
+     </body>
+     <script>
+     // var h1=document.getElementById("root")
+        var h1=document.queryselector("#root")
+        h2.innerHTML="Hello Nec"
+        var h2=document.createElement("h2")
+        h2.document.write("hello")
+        h1.appendChild(h2)
+        </script>
+        <html>
